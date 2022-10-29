@@ -28,7 +28,7 @@ function myFunction1(){
 
                 <i class="fab fa-whatsapp-square" style="color: #3edc81; font-size: 20px;"></i> <b><span
                         id="W_whatsapp"><a href="https://api.whatsapp.com/send?text=Hello&amp;phone=91`+whatsapp+`"
-                            target="_blank">`+whatsapp+`</a></span></b><br />
+                            target="_blank">`+whatsappnumber+`</a></span></b><br />
             </p>
 
             <h3 style="color: #3e005d;">We will revert you as soon as possible...!</h3>
