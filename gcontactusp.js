@@ -1,7 +1,7 @@
 function myFunction1(){
     var name = document.getElementById('website').value;
     var email = document.getElementById('email').value;
-    var whatsapp = document.getElementById('whatsapp').value;
+    var whatsappnumber = document.getElementById('whatsappnumber').value;
     var result = document.getElementById('result');
     var currenturllink = window.location.href;
     if(name == ""){
