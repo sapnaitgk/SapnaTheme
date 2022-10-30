@@ -27,7 +27,7 @@ function myFunction1(){
                                 href="mailto:`+email+`">`+email+`</a></span></i></b><br />
 
                 <i class="fab fa-whatsapp-square" style="color: #3edc81; font-size: 20px;"></i> <b><span
-                        id="W_whatsapp"><a href="https://api.whatsapp.com/send?text=Hello&amp;phone=91`+whatsapp+`"
+                        id="W_whatsapp"><a href="https://api.whatsapp.com/send?text=Hello&amp;phone=91`+whatsappnumber+`"
                             target="_blank">`+whatsappnumber+`</a></span></b><br />
             </p>
 
